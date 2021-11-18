@@ -1,0 +1,51 @@
+#box {
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 150px;
+
+
+}
+
+.name {
+  width: 70%;
+  border: 0px solid transparent;
+  border-radius: 0;
+  border-bottom: 1px solid #aaa;
+
+  outline: none;
+  margin: 1.5em auto;
+  transition: all .5s ease;
+}
+
+.mail {
+  width: 70%;
+  border: 0px solid transparent;
+  border-radius: 0;
+  border-bottom: 1px solid #aaa;
+
+  outline: none;
+  margin: 1.5em auto;
+  transition: all .5s ease;
+}
+
+.msg {
+  width: 70%;
+  border: 0px solid transparent;
+  border-radius: 0;
+  border-bottom: 1px solid #aaa;
+
+  outline: none;
+  margin: 1.5em auto;
+  transition: all .5s ease;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-color: #e7e7e7;
+}
